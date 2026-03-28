@@ -7,7 +7,7 @@ export const profile = {
     "自然大好きエンジニアです。趣味はキャンプと素潜り！",
     "Python勉強中です💪よろしくお願いします。",
   ],
-  avatarUrl: "/images/スクリーンショット 2026-03-28 15.00.40.png", // public/images/ に画像を置いてパスを指定
+  avatarUrl: "", // public/images/ に画像を置いてパスを指定
 };
 
 export const skills = [
